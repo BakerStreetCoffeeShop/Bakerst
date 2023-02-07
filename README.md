@@ -1,1 +1,1 @@
-[Welcome To Baker st. Please tap here](BakerStreetCoffeeShop.pnj)
+[Welcome To Baker st. Please tap here](BakerStreetCoffeeShop.png)
