@@ -1,1 +1,1 @@
-![](pic/BakerStreetCoffeeShop.png)
+[Welcome To Baker Street](BakerStreetCoffeeShop.png)
